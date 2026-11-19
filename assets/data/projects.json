@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Rifarahi E-Commerce App",
+    "category": "Mobile App",
+    "description": "A feature-rich mobile e-commerce platform designed to deliver seamless shopping experiences, instant product discovery, and fast checkout on both iOS and Android.",
+    "technologies": [
+      "React Native",
+      "iOS",
+      "Android",
+      "REST APIs"
+    ],
+    "image": "assets/img/projects/rafarahi.webp",
+    "url": "",
+    "featured": true,
+    "category_bn": "মোবাইল অ্যাপ",
+    "description_bn": "iOS আর Android-এ সহজ কেনাকাটা, দ্রুত প্রোডাক্ট খোঁজা আর তাড়াতাড়ি চেকআউটের মোবাইল ই-কমার্স প্ল্যাটফর্ম।"
+  },
+  {
+    "title": "Redmone E-Commerce App",
+    "category": "Mobile App",
+    "description": "A high-performance cross-platform retail app equipped with real-time order tracking, personalized recommendations, and secure payment integrations.",
+    "technologies": [
+      "React Native",
+      "iOS",
+      "Android",
+      "Redux"
+    ],
+    "image": "assets/img/projects/redmone.webp",
+    "url": "",
+    "featured": true,
+    "category_bn": "মোবাইল অ্যাপ",
+    "description_bn": "রিয়েল-টাইম অর্ডার ট্র্যাকিং, ব্যক্তিগত সাজেশন আর নিরাপদ পেমেন্টসহ দ্রুত ক্রস-প্ল্যাটফর্ম রিটেল অ্যাপ।"
+  },
+  {
+    "title": "Impay Legal Documentation",
+    "category": "Web Application",
+    "description": "An automated legal tech workspace enabling streamlined contract creation, digital signature workflows, and compliant document management.",
+    "technologies": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "image": "assets/img/projects/impay.webp",
+    "url": "",
+    "featured": true,
+    "category_bn": "ওয়েব অ্যাপ্লিকেশন",
+    "description_bn": "কন্ট্র্যাক্ট তৈরি, ডিজিটাল সই আর নিয়ম মেনে ডকুমেন্ট রাখার অটোমেটেড লিগ্যাল-টেক ওয়ার্কস্পেস।"
+  },
+  {
+    "title": "Legtech Fintech Platform",
+    "category": "Fintech / Platform",
+    "description": "A robust fintech platform built for secure digital transactions, automated ledger management, and scalable real-time financial reporting.",
+    "technologies": [
+      "React",
+      "NestJS",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "image": "assets/img/projects/legtech.webp",
+    "url": "",
+    "featured": true,
+    "category_bn": "ফিনটেক / প্ল্যাটফর্ম",
+    "description_bn": "নিরাপদ ডিজিটাল লেনদেন, অটোমেটেড লেজার আর রিয়েল-টাইম আর্থিক রিপোর্টের ফিনটেক প্ল্যাটফর্ম।"
+  },
+  {
+    "title": "Dewflix HealthCare",
+    "category": "Healthcare / Web",
+    "description": "A user-centric healthcare web portal offering virtual consultation booking, patient record management, and responsive medical resource hubs.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Tailwind CSS",
+      "Bootstrap"
+    ],
+    "image": "assets/img/projects/dewflix.webp",
+    "url": "",
+    "featured": true,
+    "category_bn": "হেলথকেয়ার / ওয়েব",
+    "description_bn": "অনলাইন কনসাল্টেশন বুকিং, রোগীর রেকর্ড আর মেডিক্যাল তথ্যের সহজ হেলথকেয়ার পোর্টাল।"
+  },
+  {
+    "title": "Real Estate Platform",
+    "category": "Web Platform",
+    "description": "An interactive real estate portal featuring high-definition property listings, virtual tours, filtered geographical search, and direct agent inquiries.",
+    "technologies": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "GraphQL"
+    ],
+    "image": "assets/img/projects/jamidaar.webp",
+    "url": "",
+    "featured": true,
+    "category_bn": "ওয়েব প্ল্যাটফর্ম",
+    "description_bn": "ঝকঝকে প্রপার্টি লিস্টিং, ভার্চুয়াল ট্যুর, এলাকা ধরে খোঁজা আর এজেন্টকে সরাসরি জিজ্ঞাসার রিয়েল এস্টেট পোর্টাল।"
+  }
+]

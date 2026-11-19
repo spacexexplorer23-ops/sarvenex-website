@@ -1,0 +1,108 @@
+[
+  {
+    "id": "chamberbook",
+    "name": "ChamberBook",
+    "status": "live",
+    "url": "https://chamberbook.sarvenex.com/",
+    "url_bn": "https://chamberbook.sarvenex.com/bn/",
+    "icon": "➕",
+    "color": "#0A7D5F",
+    "category": { "en": "Clinics & pharmacies", "bn": "ক্লিনিক ও ফার্মেসি" },
+    "tagline": { "en": "Doctor serials on WhatsApp. No queue at the counter.", "bn": "WhatsApp-এ ডাক্তারের সিরিয়াল। কাউন্টারে লাইন নেই।" },
+    "description": {
+      "en": "Patients book a serial on your shop's WhatsApp and get their number, approximate time and fee. The counter sees the live queue on one phone.",
+      "bn": "রোগী আপনার দোকানের WhatsApp-এ সিরিয়াল নেন, সঙ্গে পান নম্বর, আনুমানিক সময় আর ফি। কাউন্টারে এক ফোনেই লাইভ লাইন দেখা যায়।"
+    },
+    "features": {
+      "en": ["24×7 WhatsApp booking", "Free reminders from your own WhatsApp", "Doctor leave notices", "Free chamber website"],
+      "bn": ["২৪×৭ WhatsApp বুকিং", "নিজের WhatsApp থেকে ফ্রি রিমাইন্ডার", "ডাক্তার ছুটিতে থাকলে নোটিস", "ফ্রি চেম্বার ওয়েবসাইট"]
+    },
+    "platforms": "Android · Web",
+    "languages": "বাংলা · हिन्दी · English",
+    "schema": { "applicationCategory": "BusinessApplication", "operatingSystem": "Android, Web" }
+  },
+  {
+    "id": "1localstop-billing",
+    "name": "1 Local Stop Billing",
+    "status": "ready",
+    "url": "",
+    "icon": "🧾",
+    "color": "#16A34A",
+    "category": { "en": "Shops & retailers", "bn": "দোকান ও খুচরো ব্যবসা" },
+    "tagline": { "en": "Billing, stock and barcodes on your phone.", "bn": "মোবাইলেই বিল, স্টক আর বারকোড।" },
+    "description": {
+      "en": "An Android billing and inventory app for local shops, made for clothing, shoe and gift stores. Prints bills and barcode labels on Bluetooth thermal printers.",
+      "bn": "লোকাল দোকানের জন্য Android বিলিং ও স্টক অ্যাপ, জামাকাপড়, জুতো আর গিফটের দোকানের কথা ভেবে বানানো। Bluetooth থার্মাল প্রিন্টারে বিল আর বারকোড লেবেল ছাপে।"
+    },
+    "features": {
+      "en": ["Barcode create, print & scan", "Stock updates itself", "Invoices and sales reports", "Thermal printer ready"],
+      "bn": ["বারকোড বানানো, ছাপা, স্ক্যান", "স্টক নিজে থেকেই আপডেট", "ইনভয়েস আর বিক্রির রিপোর্ট", "থার্মাল প্রিন্টার সাপোর্ট"]
+    },
+    "platforms": "Android",
+    "languages": "বাংলা · English",
+    "schema": { "applicationCategory": "BusinessApplication", "operatingSystem": "Android" }
+  },
+  {
+    "id": "1localstop-bazar",
+    "name": "1LocalStop Bazar",
+    "status": "soon",
+    "url": "",
+    "icon": "🛒",
+    "color": "#22C55E",
+    "category": { "en": "Village shops & customers", "bn": "গ্রামের দোকান ও ক্রেতা" },
+    "tagline": { "en": "Order from the shops near you.", "bn": "পাড়ার দোকান থেকে অর্ডার।" },
+    "description": {
+      "en": "A simple local marketplace for groceries, vegetables, fish and meat. Order by text or voice, then pick up or get home delivery. Pay the shop directly by cash or UPI.",
+      "bn": "মুদি, সবজি, মাছ আর মাংসের জন্য সহজ লোকাল বাজার। লিখে বা ভয়েসে অর্ডার দিন, দোকান থেকে নিন বা বাড়িতে আনিয়ে নিন। টাকা সরাসরি দোকানে, নগদ বা UPI-তে।"
+    },
+    "features": {
+      "en": ["Text or voice orders", "Pickup or home delivery", "Cash / UPI to the shop", "Works on low internet"],
+      "bn": ["লিখে বা ভয়েসে অর্ডার", "দোকানে নেওয়া বা হোম ডেলিভারি", "দোকানে নগদ / UPI", "কম নেটেও চলে"]
+    },
+    "platforms": "Android",
+    "languages": "বাংলা · English",
+    "schema": { "applicationCategory": "ShoppingApplication", "operatingSystem": "Android" }
+  },
+  {
+    "id": "showfolio",
+    "name": "Showfolio",
+    "status": "soon",
+    "url": "",
+    "icon": "✨",
+    "color": "#7C3AED",
+    "category": { "en": "Students, freelancers & creators", "bn": "ছাত্রছাত্রী, ফ্রিল্যান্সার ও ক্রিয়েটর" },
+    "tagline": { "en": "Your animated portfolio website in minutes.", "bn": "কয়েক মিনিটে নিজের অ্যানিমেটেড পোর্টফোলিও ওয়েবসাইট।" },
+    "description": {
+      "en": "Pick a template, add your photos and details, and share a link to a moving, animated portfolio site. No coding needed.",
+      "bn": "টেমপ্লেট বেছে নিন, ছবি আর তথ্য দিন, তারপর অ্যানিমেটেড পোর্টফোলিও সাইটের লিংক শেয়ার করুন। কোডিং লাগবে না।"
+    },
+    "features": {
+      "en": ["Ready animated templates", "Made on your phone", "Shareable link", "Google or mobile OTP login"],
+      "bn": ["তৈরি অ্যানিমেটেড টেমপ্লেট", "মোবাইলেই বানানো", "শেয়ার করার লিংক", "Google বা মোবাইল OTP লগইন"]
+    },
+    "platforms": "Android · Web",
+    "languages": "English",
+    "schema": { "applicationCategory": "DesignApplication", "operatingSystem": "Android, Web" }
+  },
+  {
+    "id": "quran-app",
+    "name": "Quran App",
+    "status": "soon",
+    "url": "",
+    "icon": "📖",
+    "color": "#0E7490",
+    "category": { "en": "Reading & listening", "bn": "পড়া ও শোনা" },
+    "tagline": { "en": "Ad-free Quran reading and listening.", "bn": "বিজ্ঞাপন ছাড়া কুরআন পড়া ও শোনা।" },
+    "description": {
+      "en": "Ayah-by-ayah Arabic text with translations, reciter audio with offline downloads, Qibla direction and local prayer times. Coming to Google Play.",
+      "bn": "আয়াত ধরে আরবি আর অনুবাদ, তিলাওয়াত শোনা আর অফলাইনে ডাউনলোড, কিবলার দিক আর নামাজের সময়। Google Play-তে আসছে।"
+    },
+    "features": {
+      "en": ["No ads", "Offline audio", "Qibla & prayer times", "Translations"],
+      "bn": ["বিজ্ঞাপন নেই", "অফলাইন অডিও", "কিবলা ও নামাজের সময়", "অনুবাদ"]
+    },
+    "platforms": "Android",
+    "languages": "العربية · বাংলা · English",
+    "schema": { "applicationCategory": "LifestyleApplication", "operatingSystem": "Android" }
+  }
+]
